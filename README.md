@@ -6,4 +6,4 @@ It also provides code for the "on policy sampling" in torch.
 # First Result 
 The policy algorithm with "on policy sampling" takes long to converge and sample separate trajectories. But after some steps it was able to beat the challenge for some samples.
 
-[alt text](expected_reward_results.png)
+![alt text](expected_reward_results.png)
